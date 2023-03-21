@@ -2,3 +2,4 @@ aws
 devops
 git
 hadoop
+jenkins
